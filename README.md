@@ -7,9 +7,6 @@
 # Task Manager  
 Современный REST API для управления задачами с аутентификацией и документацией 
 > Production-ready Spring Boot сервис: от валидации до деплоя.
-
-[![Spring Boot 3](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![JPA/Hibernate](https://img.shields.io/badge/JPA-Hibernate-007ACC)](https://hibernate.org)
 ---
 
 ##  Возможности
