@@ -28,5 +28,4 @@
 
 ##  Быстрый старт
 
-```bash
 ./mvnw spring-boot:run
